@@ -1,10 +1,5 @@
 {
-    name: "Darwin",
-    symbol: "DWN",
-    uri: "https://github.com/ric9rdo/CryptoTokenDWG/blob/main/logo.png",
-    // we don't need that
-    sellerFeeBasisPoints: 0,
-    creators: null,
-    collection: null,
-    uses: null
-}
+    "name": "Darwin",
+    "symbol": "DWN",
+    "image": "https://github.com/ric9rdo/CryptoTokenDWG/blob/main/logo.png"
+  }
