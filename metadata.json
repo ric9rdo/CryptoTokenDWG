@@ -1,0 +1,10 @@
+{
+    name: "Darwin",
+    symbol: "DWN",
+    uri: "https://raw.githubusercontent.com/ric9rdo/CryptoTokenDWG/main/coin_dwg.png",
+    // we don't need that
+    sellerFeeBasisPoints: 0,
+    creators: null,
+    collection: null,
+    uses: null
+}
